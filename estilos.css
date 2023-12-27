@@ -1,8 +1,20 @@
-.fondo {
-     background-color: beige
+body {
+    background-color: #B2DFFD;
 }
+.title {
+    background-color: #0584DC;
+}
+
 
 .miTexto {
     size: 80px;
     color: midnightblue
+}
+
+#principal {
+    font-size: 50px;
+}
+
+.logo {
+    width: 500px;
 }
